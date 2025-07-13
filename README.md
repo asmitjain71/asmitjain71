@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <!-- Futuristic animated header -->
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Crafting+Digital+Experiences;Garud+Here&center=true&width=500&height=60&color=0F0&vCenter=true&pause=1000" alt="Futuristic Header">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Crafting+Digital+Experiences;Asmit+Here&center=true&width=500&height=60&color=0F0&vCenter=true&pause=1000" alt="Futuristic Header">
   <img src="https://i.pinimg.com/originals/59/e1/8f/59e18f5ab8f18d6c6d2c8a6a7f0d5e7e.gif" alt="App Development Animation" style="width:100%;">
 </div>
 
